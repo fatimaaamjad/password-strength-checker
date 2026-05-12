@@ -14,3 +14,7 @@ A Python program that checks the strength of a password and classifies it as **W
 
 ```bash
 python password_strength_checker.py
+
+**Submitted by:** Fatima Amjad  
+**Batch:** 2026  
+DecodeLabs Cyber Security Project 1
